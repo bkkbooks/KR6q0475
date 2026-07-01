@@ -1,0 +1,354 @@
+canonical_identifier: bkk:krp/KR6q0475/v1
+canonical_location: https://kanripo.org/bkk/KR6q0475/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 南嶽繼起和尚語錄
+  identifiers:
+    alt_id:
+    - J34nB301
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J34/J34nB301.xml
+    old_id: J34nB301
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: 嘉興-CB
+  label: 嘉興-CB
+  source_xml_id: wit1
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0475_000.yaml, hash: 'sha256:b3b08c79c185b21162311e9e32fce07cd0427b908db021b43b374d27b074d662'}
+  - {seq: 1, filename: KR6q0475_001.yaml, hash: 'sha256:5f7da3ff1080e6d6ae368b3c94913daab1a40186ab66490eb656a7bb554f1cf2'}
+  - {seq: 2, filename: KR6q0475_002.yaml, hash: 'sha256:8b90daee66a02d8d773efab69470da5c9a992071201805346b52875c5af4e076'}
+  - {seq: 3, filename: KR6q0475_003.yaml, hash: 'sha256:0708bd3ce7af3e28fb58e792f171da8fb6da39ccb3f425421549ed86c3f9c463'}
+  - {seq: 4, filename: KR6q0475_004.yaml, hash: 'sha256:3ed46d58c41f3bef17f8ed3a03a34a03eda09f9d95043cf8e2a24b09067c3886'}
+  - {seq: 5, filename: KR6q0475_005.yaml, hash: 'sha256:cb552d71a2d4eae78925d216cf1946d60d85071f924176818d22fbbf185ac354'}
+  - {seq: 6, filename: KR6q0475_006.yaml, hash: 'sha256:906146a9978bec23ba1a9fb621039ed8cc0dbce6fa3c10455cf842618e811e5b'}
+  - {seq: 7, filename: KR6q0475_007.yaml, hash: 'sha256:de30a644b1f2b834f055ae258d04f85d1993c39b017bba3f10d35203f47c462b'}
+  - {seq: 8, filename: KR6q0475_008.yaml, hash: 'sha256:693d7058486548efad88ad5a2befab784cadfb2085dbba4b2abfb792bb87fc08'}
+  - {seq: 9, filename: KR6q0475_009.yaml, hash: 'sha256:5d0f0e7fcfa50f4089f81af091c8d62ec856d46dd2ef57b8621a8c82bf7ea265'}
+  - {seq: 10, filename: KR6q0475_010.yaml, hash: 'sha256:035644d02f4e72575d9635d197316d4ea570935dba68b079eaaf11eb2f07cc01'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0475_000.markers.yaml, hash: 'sha256:c372d06f7ae34668fd80aab0835c18ce3546192706cdf0ea66792cf02ac8050b'}
+  - {seq: 1, role: markers, filename: assets/KR6q0475_001.markers.yaml, hash: 'sha256:483cfb22be2899c990437021684721fa17504364ad38643e94d92db585bb6a0d'}
+  - {seq: 2, role: markers, filename: assets/KR6q0475_002.markers.yaml, hash: 'sha256:e7ee81f6b74224509a060ccb7a448e720e7a1a6131daaa8290f1b642a58dfb13'}
+  - {seq: 3, role: markers, filename: assets/KR6q0475_003.markers.yaml, hash: 'sha256:775af41f156f6806c4cdd4db7e012d36c18b6a57ec950abd8f0e2da0d8d25e0f'}
+  - {seq: 4, role: markers, filename: assets/KR6q0475_004.markers.yaml, hash: 'sha256:19ad0dbb9e2401b2d57a0cb9b8714dfd95b8c6a54e21168084df65499426d6b9'}
+  - {seq: 5, role: markers, filename: assets/KR6q0475_005.markers.yaml, hash: 'sha256:dc5b1a137964141136a4a28d77c1bbb0ad222b08f417102f28d55af6b983b5a1'}
+  - {seq: 6, role: markers, filename: assets/KR6q0475_006.markers.yaml, hash: 'sha256:f35e7ff6cfd785d6ac03133b92ee4e3b1ff5358b4dd9d0c639d46ec3323fcc8f'}
+  - {seq: 7, role: markers, filename: assets/KR6q0475_007.markers.yaml, hash: 'sha256:9914deef5e81719a623f52b8dbdba36071abe0600dc46e16a368e64c53035e4b'}
+  - {seq: 8, role: markers, filename: assets/KR6q0475_008.markers.yaml, hash: 'sha256:5857af1c1447b8412aa9957d83b704ce7aea5e1215f713658f37646695217836'}
+  - {seq: 9, role: markers, filename: assets/KR6q0475_009.markers.yaml, hash: 'sha256:3e126daf1397a937fd36b92ab0fcb7c36f90738e629e611f832922ebdd56f211'}
+  - {seq: 10, role: markers, filename: assets/KR6q0475_010.markers.yaml, hash: 'sha256:9f9bb41804ee663313e2e2ae0bc0484ed247e6d5dac7cd5e0e5fc52d3d03b7f7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0475_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0475_J_000-mulu-2
+    span:
+    - front
+    - 146
+    - 146
+  label: 總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0475_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 7108
+  label: 南岳繼起和尚語錄卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0475_J_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 住常州夫山祥符寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0475_J_001-mulu-2
+    span:
+    - body
+    - 3758
+    - 3758
+  label: 住台州天台國清寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0475_J_001-mulu-3
+    span:
+    - body
+    - 4438
+    - 4438
+  label: 住蘇州靈嵒崇報寺語一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0475_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 7161
+  label: 南岳繼起和尚語錄卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0475_J_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 住蘇州靈嵒崇報寺語二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0475_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 7634
+  label: 南岳繼起和尚語錄卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0475_J_003-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 住蘇州靈嵒崇報寺語三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0475_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 7502
+  label: 南岳繼起和尚語錄卷之四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0475_J_004-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 住蘇州靈嵒崇報寺語四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0475_J_004-mulu-2
+    span:
+    - body
+    - 2814
+    - 2814
+  label: 住蘇州堯封寶雲寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0475_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 8785
+  label: 南岳繼起和尚語錄卷之五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0475_J_005-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 住蘇州虎丘雲巖寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0475_J_005-mulu-2
+    span:
+    - body
+    - 3789
+    - 3789
+  label: 住秀州金粟廣慧寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0475_J_006-juan-start
+    span:
+    - body
+    - 0
+    - 9897
+  label: 南岳繼起和尚語錄卷之六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0475_J_006-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 住衡州南岳福嚴寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0475_J_006-mulu-2
+    span:
+    - body
+    - 2069
+    - 2069
+  label: 住衡州花藥寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0475_J_006-mulu-3
+    span:
+    - body
+    - 3863
+    - 3863
+  label: 住高峰理山寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0475_J_006-mulu-4
+    span:
+    - body
+    - 5155
+    - 5155
+  label: 住武昌東巖寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0475_J_006-mulu-5
+    span:
+    - body
+    - 7098
+    - 7098
+  label: 住漢陽大別山興國寺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0475_J_007-juan-start
+    span:
+    - body
+    - 0
+    - 7515
+  label: 南岳繼起和尚語錄卷之七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0475_J_007-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 靈巖廿一錄卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0475_J_008-juan-start
+    span:
+    - body
+    - 0
+    - 7053
+  label: 南岳繼起和尚語錄卷之八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0475_J_008-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 靈嵒廿一錄卷下
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0475_J_009-juan-start
+    span:
+    - body
+    - 0
+    - 6632
+  label: 南岳繼起和尚語錄卷之九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0475_J_009-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 南岳正續錄卷上
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0475_J_010-juan-start
+    span:
+    - body
+    - 0
+    - 6734
+  label: 南岳繼起和尚語錄卷之十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0475_J_010-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 南岳正續錄卷下
+  type: mulu
+  level: 1
+hash: sha256:472429e4f89b5d3a743a64d5ecc4f29395641a04779fc08b33c28c1d99860f26
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
