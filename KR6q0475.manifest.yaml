@@ -24,7 +24,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0475_000.yaml, hash: 'sha256:da3d0d15c4c35356710224044172914bf85a61b37b9ae6cbdee80a8be00e0eaa'}
+  - {seq: 0, filename: KR6q0475_000.yaml, hash: 'sha256:b57e427e50075b7ae8f3a114b9c41ffd86ba982720053c1711937ae8d49e51a9'}
   - {seq: 1, filename: KR6q0475_001.yaml, hash: 'sha256:edcf5d86bb3703d7ddaea3b7d0e7ea23b3a8f9e4d25675db5923a06a865b4546'}
   - {seq: 2, filename: KR6q0475_002.yaml, hash: 'sha256:81601c4d05c19e2226915e3cb11358068a34470edf22d6e4ae5393067afe76ea'}
   - {seq: 3, filename: KR6q0475_003.yaml, hash: 'sha256:7256d996d43d783315511ca4bddd6c59d2e7f496325d3467651196f99c603577'}
@@ -36,7 +36,7 @@ assets:
   - {seq: 9, filename: KR6q0475_009.yaml, hash: 'sha256:e7b939990dacbebbe059e384ff75db146b93c2347726b1f8b950e93d35072860'}
   - {seq: 10, filename: KR6q0475_010.yaml, hash: 'sha256:e2c2a75d938a6d7856f9394d6a4cdb7332f420b2e79830e10724c2ac4f25b570'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0475_000.markers.yaml, hash: 'sha256:51adb0cfbdc18907ef23a9853d73eab6fe3229140a98b56745cb5da017d704be'}
+  - {seq: 0, role: markers, filename: assets/KR6q0475_000.markers.yaml, hash: 'sha256:9829398eefdb0f3bbd9d52b64ad70acaec2f97431fcc87ec1035393a78362dc8'}
   - {seq: 1, role: markers, filename: assets/KR6q0475_001.markers.yaml, hash: 'sha256:7f8ea6d2f2d783eab67b4ee220c3ca4e616da66af762692195f125b85ac0d5b9'}
   - {seq: 2, role: markers, filename: assets/KR6q0475_002.markers.yaml, hash: 'sha256:afea397f85ea02d2e93515c57f69880c3d27614e03be2a280274c65830e99e01'}
   - {seq: 3, role: markers, filename: assets/KR6q0475_003.markers.yaml, hash: 'sha256:c2e495525f675e7e8628c30ef6670b66f1ee8d3415c3f4d6240df867dbfadc06'}
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0475_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0475_J_000-mulu-2
     span:
-    - front
+    - body
     - 146
     - 146
   label: 總目
@@ -348,7 +348,7 @@ table_of_contents:
   label: 南岳正續錄卷下
   type: mulu
   level: 1
-hash: sha256:089af0c2338f8017c031c1a2302650402782454886ddb7b3c40208568bde4930
+hash: sha256:c5dfbe182cfb7cb458566b284a77f0d83b8d1d20eb91f175f1d7093d0cb9625a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

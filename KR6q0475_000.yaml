@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0475/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 南嶽繼起和尚大宗堂録彙自序庚戌長夏病榻山中念行腳高士囊鉢蕭然不獨古人語録不能購與我同生此世者尚不得讀我全書秪因卷帙浩繁慨然於諸會録中取其語之簡直者釐為十卷曰大宗堂録彙其實如樹泉報慈甲辰湘雲館散録堯封後録皆於古人説不到處盡心而出一字不可捨者無以得此失彼反使老僧賺卻闍黎壬子九月霜降第一日退翁自序南嶽繼起和尚語録總目卷之一住常州夫山祥符寺語住台州天台國清寺語住蘇州靈嵒崇報寺語卷之二住蘇州靈巖崇報寺語卷之三住蘇州靈巖崇報寺語卷之四住蘇州靈嵒崇報寺語住蘇州堯封寶雲寺語卷之五住蘇州虎丘雲巖寺語住秀州金粟廣慧寺語卷之六住衡州南嶽福嚴寺語衡州花藥寺語高峰理山寺語武昌東巖寺語住漢陽大別山興國寺語卷之七靈巖草一録卷上卷之八靈巖草一録卷下卷之九南嶽正續録卷上卷之十南嶽正續録卷下
   hash: sha256:9e2e303b907a29e70685c820723c950e81fb3d31eb693f587fcc4a92adc9ef47
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0475_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 146, content: 總目, id: KR6q0475_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 南嶽繼起和尚語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J34/J34nB301.xml
     old_id: J34nB301
-hash: sha256:da3d0d15c4c35356710224044172914bf85a61b37b9ae6cbdee80a8be00e0eaa
+hash: sha256:b57e427e50075b7ae8f3a114b9c41ffd86ba982720053c1711937ae8d49e51a9
